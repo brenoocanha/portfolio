@@ -38,7 +38,7 @@ export default function Breno() {
                         <a href='https://instagram.com/brenoocanha/' rel="noreferrer" target="_blank"><FontAwesomeIcon size='2xl' icon={faInstagram} /></a>
                     </li>
                     <li>
-                        <a href='https://www.linkedin.com/in/breno-ocanha-1992111b1/' rel="noreferrer" target="_blank"><FontAwesomeIcon size='2xl' icon={faLinkedinIn} /></a>
+                        <a href='https://www.linkedin.com/in/brenoocanha' rel="noreferrer" target="_blank"><FontAwesomeIcon size='2xl' icon={faLinkedinIn} /></a>
                     </li>
                 </ul>
             </div>
