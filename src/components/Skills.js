@@ -26,18 +26,18 @@ export default function Skills() {
     return(
 
         <div id="skills" className="mt-4 text-white">
-            <h1 className="text-2xl font-bold">Skills</h1>
-            <p className="font-light text-gray-400">Here are some of my skills</p>
+            <h1 className="text-2xl font-bold">Habilidades</h1>
+            <p className="font-light text-gray-400">Minhas stacks:</p>
 
             <div className="mt-4">
                 <Slider {...settings}>
-                <SkillCard name="javascript" experience="1 years" img={javascript} />
-                <SkillCard name="react" experience="1 years" img={reactIcon} />
-                <SkillCard name="windows" experience="1 years" img={windows} />
-                <SkillCard name="react" experience="1 years" img={react} />
-                <SkillCard name="git" experience="1 years" img={git} />
-                <SkillCard name="express" experience="1 years" img={express} />
-                <SkillCard name="gitlab" experience="1 years" img={gitlab} />
+                <SkillCard name="javascript" experience="< 1 ano" img={javascript} />
+                <SkillCard name="react" experience="< 1 ano" img={reactIcon} />
+                <SkillCard name="windows" experience="< 1 ano" img={windows} />
+                <SkillCard name="react" experience="< 1 ano" img={react} />
+                <SkillCard name="git" experience="< 1 ano" img={git} />
+                <SkillCard name="express" experience="< 1 ano" img={express} />
+                <SkillCard name="gitlab" experience="< 1 ano" img={gitlab} />
                 </Slider>
             </div>
             <img src={hr} className="w-full mt-8 md:h-3" alt="hr" />

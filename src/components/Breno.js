@@ -24,10 +24,10 @@ export default function Breno() {
             </div>
             <div className='md:w-3/6' data-aos="fade-right" data-aos-duration="1000" data-aos-offset="100" >
                 <div className="flex flex-col w-full mt-8">
-                    <h1 className="text-xl text-gray-400">Hi, I'm</h1>
+                    <h1 className="text-xl text-gray-400">Olá, meu nome é:</h1>
                     <h1 className="text-2xl font-bold">Breno Ocanha</h1>
                     <p class="text-xl font-bold text-gray-300">Fullstack Developer</p>
-                    <p className="text-md font-light text-gray-400 ">I'm a software developer currently working and studying as a fullstack. I'm 21 years old and I love programming and technology.</p>
+                    <p className="text-md font-light text-gray-400 ">Estou sempre estudando novas tecnologias e aprimorando as que eu já conheço para me tornar um profissional cada vez melhor.</p>
                 </div>
 
                 <ul className='flex mt-2 gap-4 items-center'>
